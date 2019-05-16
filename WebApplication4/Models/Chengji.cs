@@ -6,7 +6,7 @@ using System.Web;
 
 namespace WebApplication4.Models
 {
-    public class Chengji
+      public class Chengji
     {
         [Key]
         [Display(Name = "成绩序号")]
